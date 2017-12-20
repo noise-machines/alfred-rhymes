@@ -1,6 +1,6 @@
 {
   "name": "alfred-rhymes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Show rhymes from RhymeZone and B-Rhymes in Alfred. Includes near rhymes.",
   "main": "index.js",
   "scripts": {
