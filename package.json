@@ -1,8 +1,7 @@
 {
   "name": "alfred-rhymes",
   "version": "0.0.0",
-  "description":
-    "Show rhymes from RhymeZone and B-Rhymes in Alfred. Includes near rhymes.",
+  "description": "Show rhymes from RhymeZone and B-Rhymes in Alfred. Includes near rhymes.",
   "main": "index.js",
   "scripts": {
     "test": "ava",
@@ -13,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/noise-machines/alfred-rhymes.git"
   },
-  "keywords": ["alfred", "rhymes", "poetry", "songwriting"],
+  "keywords": [
+    "alfred",
+    "rhymes",
+    "poetry",
+    "songwriting"
+  ],
   "author": "Thomas Bailey (https://github.com/noise-machines)",
   "license": "MIT",
   "bugs": {
